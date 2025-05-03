@@ -12,5 +12,6 @@ NeuroNexus/
 ├── task1/
 │ ├── index.html
 │ ├── styles.css
-│ 
+│ └── README.md (optional)
+│
 └── README.md
