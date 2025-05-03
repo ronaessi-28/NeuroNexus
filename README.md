@@ -5,13 +5,4 @@ This repository will contain all the tasks, projects, and assignments completed 
 
 ---
 
-## 📂 Folder Structure
 
-NeuroNexus/
-│
-├── task1/
-│ ├── index.html
-│ ├── styles.css
-│ └── README.md (optional)
-│
-└── README.md
