@@ -10,7 +10,7 @@ This repository will contain all the tasks, projects, and assignments completed 
 ---
 
 ## 📌 Internship Overview
-
+  
 **Internship Domain**: Web Development  
 **Organization**: NeuroNexus  
 **Technologies Used**:  
